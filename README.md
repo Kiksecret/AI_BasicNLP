@@ -1,4 +1,4 @@
-# Basic NLP
+# Basics of Natural Language Processing
 
 - Stop words
 - Basic NLP 
